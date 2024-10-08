@@ -1,0 +1,13 @@
+.game {
+    display: flex;
+    justify-content: center;
+}
+
+.game-info {
+    margin: 30px;
+}
+
+.moves {
+    list-style: none;
+    margin-top: 10px;
+}
